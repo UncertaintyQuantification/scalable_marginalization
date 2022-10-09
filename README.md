@@ -1,6 +1,6 @@
 Code for 
 
-Scalable marginalization of latent variables for correlated data
+Scalable marginalization of correlated variables with applications to learning particle interaction kernels
 
 Mengyang Gu, Xubo Liu, Xinyi Fang and Sui Tang
 
